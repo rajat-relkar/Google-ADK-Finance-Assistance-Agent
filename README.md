@@ -2,7 +2,7 @@
 
 A small multi-agent personal-finance assistant built with the [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) and Gemini. A friendly root agent answers general finance questions and looks up the user's financial snapshot. It delegates anything that needs live market data, or savings and investment planning, to a specialist agent that can use Google Search.
 
-> **Status:** learning/prototype project. The user's financial data is mocked (hard-coded) and nothing here is real financial advice.
+> **Status:** learning/prototype project. The user's financial data is mocked (hard-coded).
 
 ---
 
